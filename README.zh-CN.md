@@ -1,21 +1,21 @@
 <p align="center">
-    <img src="https://scx.cool/scx-logo/scx-js-logo.svg" width="300px"  alt="scx-js-logo"/>
+    <img src="https://scx.dev/scx-logo/scx-js-logo.svg" width="300px"  alt="scx-js-logo"/>
 </p>
 <p align="center">
-    <a target="_blank" href="https://github.com/scx567888/scx-js/actions/workflows/ci.yml">
-        <img src="https://github.com/scx567888/scx-js/actions/workflows/ci.yml/badge.svg" alt="CI"/>
+    <a target="_blank" href="https://github.com/scx-projects/scx-js/actions/workflows/ci.yml">
+        <img src="https://github.com/scx-projects/scx-js/actions/workflows/ci.yml/badge.svg" alt="CI"/>
     </a>
     <a target="_blank" href="https://www.npmjs.com/package/@scx-js/scx-ui">
         <img src="https://img.shields.io/npm/v/@scx-js/scx-ui.svg?color=ff69b4" alt="npm package"/>
     </a>
-    <a target="_blank" href="https://github.com/scx567888/scx-js">
-        <img src="https://img.shields.io/github/languages/code-size/scx567888/scx-js?color=orange" alt="code-size"/>
+    <a target="_blank" href="https://github.com/scx-projects/scx-js">
+        <img src="https://img.shields.io/github/languages/code-size/scx-projects/scx-js?color=orange" alt="code-size"/>
     </a>
-    <a target="_blank" href="https://github.com/scx567888/scx-js/issues">
-        <img src="https://img.shields.io/github/issues/scx567888/scx-js" alt="issues"/>
+    <a target="_blank" href="https://github.com/scx-projects/scx-js/issues">
+        <img src="https://img.shields.io/github/issues/scx-projects/scx-js" alt="issues"/>
     </a> 
-    <a target="_blank" href="https://github.com/scx567888/scx-js/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/scx567888/scx-js" alt="license"/>
+    <a target="_blank" href="https://github.com/scx-projects/scx-js/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/scx-projects/scx-js" alt="license"/>
     </a>
 </p>
 <p align="center">
@@ -82,8 +82,6 @@ createApp(App)
 <!-- 你会看见一个笑脸图标 -->
 <scx-icon icon="outlined-face-smile"/>
 ```
-
-有关更多信息，请参阅 [文档](https://scx.cool/docs/scx/index.html)
 
 ## Stats
 

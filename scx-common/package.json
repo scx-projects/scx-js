@@ -1,6 +1,6 @@
 {
   "name": "@scx-js/scx-common",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "SCX Common",
   "license": "MIT",
   "author": "scx567888",
@@ -8,6 +8,6 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scx567888/scx-js.git"
+    "url": "https://github.com/scx-projects/scx-js.git"
   }
 }
