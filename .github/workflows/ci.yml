@@ -23,12 +23,22 @@ jobs:
       - name: 安装依赖项
         run: npm install
 
-      - name: 使用 npm 进行构建和测试
+      - name: 使用 npm 进行构建和测试 (scx-ui)
         run: npm run build:test
         working-directory: scx-ui
 
-      - name: 上传 构建和测试 生成的文件
+      - name: 上传 构建和测试 生成的文件 (scx-ui)
         uses: actions/upload-artifact@v7
         with:
           name: scx-ui-artifact
           path: "./scx-ui/_test/dist/"
+
+      - name: 使用 npm 进行构建和测试 (scx-admin)
+        run: npm run build:test
+        working-directory: scx-admin
+
+      - name: 上传 构建和测试 生成的文件 (scx-admin)
+        uses: actions/upload-artifact@v7
+        with:
+          name: scx-admin-artifact
+          path: "./scx-admin/_test/dist/"
