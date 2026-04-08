@@ -8,7 +8,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scx567888/scx-js.git"
+    "url": "https://github.com/scx-projects/scx-js.git"
   },
   "dependencies": {
     "@scx-js/scx-common": "0.2.5"
