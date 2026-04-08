@@ -32,11 +32,17 @@ jobs:
       - name: 配置 GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: 下载工件
+      - name: 下载工件 (scx-ui)
         uses: actions/download-artifact@v8
         with:
           name: scx-ui-artifact
-          path: "./dist/"
+          path: "./dist/scx-ui/"
+          
+      - name: 下载工件 (scx-admin)
+        uses: actions/download-artifact@v8
+        with:
+          name: scx-admin-artifact
+          path: "./dist/scx-admin/"    
 
       - name: 上传工件到 GitHub Pages
         uses: actions/upload-pages-artifact@v4
