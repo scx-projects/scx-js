@@ -21,7 +21,7 @@
     "@scx-js/scx-dom": "0.2.5"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.0",
+    "@vitejs/plugin-vue": "^6.0.5",
     "clipboard": "^2.0.0",
     "vite": "^6.0.0",
     "vue-router": "^5.0.4"
