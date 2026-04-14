@@ -45,7 +45,7 @@ jobs:
           path: "./dist/scx-admin/"    
 
       - name: 上传工件到 GitHub Pages
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: "./dist/"
 
