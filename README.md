@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://scx.cool/scx-logo/scx-js-logo.svg" width="300px"  alt="scx-js-logo"/>
+    <img src="https://scx.dev/scx-logo/scx-js-logo.svg" width="300px" alt="scx-js-logo"/>
 </p>
 <p align="center">
     <a target="_blank" href="https://github.com/scx567888/scx-js/actions/workflows/ci.yml">
@@ -82,9 +82,3 @@ createApp(App)
 <!-- You will see a smile face icon -->
 <scx-icon icon="outlined-face-smile"/>
 ```
-
-For more information, see [docs](https://scx.cool/docs/scx/index.html)
-
-## Stats
-
-![Alt](https://repobeats.axiom.co/api/embed/629bece55bf6fe25ba74a28a50bff9488c68da44.svg "Repobeats analytics image")
